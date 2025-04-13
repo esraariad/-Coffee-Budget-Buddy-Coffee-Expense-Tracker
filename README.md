@@ -3,43 +3,34 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Case Study - Coffee Budget Buddy</title>
+  <title>Case Study - Coffee Budget Buddy ☕️💸</title>
   <style>
     body {
       font-family: 'Arial', sans-serif;
-      direction: rtl;
-      background-color: #f4f4f4;
+      background-color: #f5f5f5;
       color: #333;
       margin: 0;
       padding: 0;
     }
     header {
-      background-color: #282c34;
+      background-color: #4CAF50;
       color: white;
-      padding: 20px;
       text-align: center;
+      padding: 30px;
+      border-bottom: 5px solid #333;
+    }
+    header h1 {
+      font-size: 2.5em;
+    }
+    header p {
+      font-size: 1.2em;
     }
     section {
-      padding: 20px;
+      padding: 30px;
     }
-    h1, h2 {
+    h2 {
       color: #4CAF50;
-    }
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
-    li {
-      margin-bottom: 10px;
-    }
-    footer {
-      background-color: #282c34;
-      color: white;
-      text-align: center;
-      padding: 10px;
-      position: fixed;
-      width: 100%;
-      bottom: 0;
+      font-size: 1.8em;
     }
     .content {
       background-color: white;
@@ -48,56 +39,80 @@
       padding: 20px;
       margin-top: 20px;
     }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 15px;
+      font-size: 1.1em;
+    }
+    footer {
+      background-color: #4CAF50;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+    }
+    .emoji {
+      font-size: 1.5em;
+      margin-right: 10px;
+    }
   </style>
 </head>
 <body>
+
   <header>
-    <h1>Case Study - Coffee Budget Buddy</h1>
-    <p>Manage Your Coffee Budget with Ease!</p>
+    <h1>Case Study - Coffee Budget Buddy ☕️💸</h1>
+    <p>Your Ultimate Solution for Managing Coffee Budgets and Expenses!</p>
   </header>
 
   <section>
-    <h2>Introduction to the App</h2>
+    <h2>📱 Introduction to the App</h2>
     <div class="content">
-      <p>The Coffee Budget Buddy app is designed to help users track their coffee spending and manage their monthly budget with a simple and user-friendly interface.</p>
-      <p>It includes features like monthly challenges, expense tracking, and graphical reports that help users identify and reduce their coffee spending.</p>
+      <p>The Coffee Budget Buddy app helps you track and manage your coffee spending while staying within your budget. With a simple and intuitive interface, users can easily log their coffee expenses, set budget goals, and even participate in social challenges!</p>
+      <p>Whether you're a casual coffee drinker or a daily espresso enthusiast, this app empowers you to make smarter financial decisions regarding your coffee habits. ☕️💸</p>
     </div>
   </section>
 
   <section>
-    <h2>Key Features of the App</h2>
+    <h2>🔑 Key Features</h2>
     <div class="content">
       <ul>
-        <li><strong>Login:</strong> Users can log in via phone number or email with OTP authentication.</li>
-        <li><strong>Subscription Management:</strong> Monthly or yearly subscription plans with a free trial period.</li>
-        <li><strong>Expense Tracking:</strong> Users can log their daily coffee expenses, including coffee type and location.</li>
-        <li><strong>Analytics and Reports:</strong> Graphical reports to show spending vs. budget, with tips on how to save.</li>
-        <li><strong>Social Challenges:</strong> Monthly challenges to encourage users to achieve specific financial goals.</li>
+        <li><span class="emoji">💬</span><strong>Login Options:</strong> Authenticate easily with OTP via phone number or email, ensuring security and ease of use.</li>
+        <li><span class="emoji">📅</span><strong>Expense Tracking:</strong> Track daily coffee expenses, logging details like coffee type, quantity, and location.</li>
+        <li><span class="emoji">📊</span><strong>Analytics & Reports:</strong> Visualize your spending habits with dynamic charts and graphs, comparing your actual expenses to your budget goals.</li>
+        <li><span class="emoji">🏆</span><strong>Monthly Challenges:</strong> Participate in social challenges to reduce coffee spending and share your progress with friends.</li>
+        <li><span class="emoji">💳</span><strong>Subscription Plans:</strong> Access premium features with flexible monthly and yearly subscription plans. Includes a free trial period for new users!</li>
       </ul>
     </div>
   </section>
 
   <section>
-    <h2>Technologies Used</h2>
+    <h2>🛠️ Technologies Used</h2>
     <div class="content">
-      <p>We use modern technologies to ensure high performance and stability for the app:</p>
+      <p>To build a smooth and high-performance app, we used the following technologies:</p>
       <ul>
-        <li><strong>Frontend:</strong> Flutter (for cross-platform development)</li>
-        <li><strong>Backend:</strong> Firebase (for authentication and data management)</li>
-        <li><strong>Subscriptions:</strong> RevenueCat (for managing payments via App Store and Play Store)</li>
+        <li><span class="emoji">⚛️</span><strong>Flutter:</strong> For cross-platform mobile development (iOS & Android).</li>
+        <li><span class="emoji">🔥</span><strong>Firebase:</strong> For user authentication, data storage, and real-time updates.</li>
+        <li><span class="emoji">💳</span><strong>RevenueCat:</strong> For managing in-app subscriptions and payments via App Store & Play Store.</li>
       </ul>
     </div>
   </section>
 
   <section>
-    <h2>Conclusion</h2>
+    <h2>🔚 Conclusion</h2>
     <div class="content">
-      <p>The Coffee Budget Buddy app is an ideal tool for those who want to take control of their coffee spending and increase financial awareness. With its advanced features and seamless integration with Firebase and RevenueCat, this app is a powerful solution for users looking for simple and effective financial management.</p>
+      <p>With the Coffee Budget Buddy app, users can take control of their coffee spending and achieve their financial goals. Whether you're saving money or just looking to monitor your coffee expenses, the app offers powerful tools and a user-friendly experience to help you stay on track. ☕️💚</p>
+      <p>The combination of practical budgeting tools and social challenges makes this app a fun yet effective way to manage your coffee habits! 🚀</p>
     </div>
   </section>
 
   <footer>
-    <p>Developed by Esraa Riad - 2025</p>
+    <p>Developed by Esraa Riad - 2025 📅</p>
   </footer>
+
 </body>
 </html>
