@@ -1,5 +1,10 @@
 
 <body>
+![unnamed](https://github.com/user-attachments/assets/5e827890-e8bd-483b-81d9-24f159980e14)
+![unnamed (4)](https://github.com/user-attachments/assets/9899bbd2-7682-4935-b02a-1a8fe7f62c5d)
+![unnamed (3)](https://github.com/user-attachments/assets/7d25dbb7-f0b9-44e4-93dd-52e6d53b3a19)
+![unnamed (2)](https://github.com/user-attachments/assets/e7935a8d-bd21-4710-a515-c974b3fef8de)
+![unnamed (1)](https://github.com/user-attachments/assets/cb0a9eb4-ed27-4c4f-a0f7-10c4174da086)
 
   <header>
     <h1>Case Study - Coffee Budget Buddy ☕️💸</h1>
